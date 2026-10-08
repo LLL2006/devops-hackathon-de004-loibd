@@ -47,5 +47,7 @@ Tham số trong template	Giá trị đã điền	Giải thích
 04. Giao diện Website
 
 05. Lịch sử Git Log
-
+![05-git-log.png](screenshots/05-git-log.png)
 06. Cập nhật Website lần 2
+
+
